@@ -1,0 +1,101 @@
+id_peli,titulo,genero, rating
+67,Mystery Science Theater 3000,Terror,9.7
+42,Experiment in Terror,Terror,9.0
+16,North Face,Terror,8.9
+79,Kanine,Terror,8.5
+18,Chu Chin Chow,Terror,8.3
+56,Minions,Terror,7.4
+71,Dr. Jack,Terror,6.6
+92,Silent House,Terror,6.5
+74,In America,Terror,6.4
+34,Yonkers Joe,Terror,6.3
+6,Eenfance naked Childhood,Terror,5.8
+83,Dodge City,Terror,5.4
+48,Taxi 4,Terror,5.2
+1,Docks of New York,Terror,4.5
+64,Ugly Truth,Terror,4.4
+58,Link,Terror,4.0
+8,How to Survive a Plague,Terror,3.8
+37,Designing Woman,Terror,3.3
+32,Chance of a Lifetime,Drama,9.1
+7,Who Is John Galt,Drama,9.1
+2,Generals Daughter,Drama,8.9
+26,In the Cut,Drama,8.9
+76,North to Alaska,Drama,8.5
+17,Satans Tango ,Drama,8.5
+14,Casshern,Drama,8.4
+3,Angry Silence,Drama,8.2
+13,Fall From Grace,Drama,8.2
+22,Naked in New York,Drama,7.7
+40,Saturday Night Fever,Drama,7.0
+46,36 Quai des Orfevres,Drama,6.8
+75,Big Mommas Like Father,Drama,6.8
+61,Wednesday,Drama,6.7
+44,Summer in Berlin,Drama,6.5
+54,Heartlands,Drama,6.3
+62,Dawn Rider,Drama,5.7
+10,The Case of Lucky Legs,Drama,5.6
+47,Raiders of the Lost Ark,Drama,5.2
+94,Eerie Tales,Drama,5.1
+23,American Winterr,Drama,4.8
+19,Cannibal Holocaust,Drama,4.8
+52,That Touch of Mink,Drama,4.3
+87,Je appelle Elisabeth,Drama,4.3
+96,Way We Laughed,Drama,2.3
+68,Mountaintop Motel Massacre,Drama,2.2
+28,The Coven,Drama,1.7
+11,Musketeer,Drama,1.4
+86,Creepshow 2,Drama,1.4
+12,Romantic Comedy,Comedia,9.9
+81,Carbon Copy,Comedia,9.8
+84,Greatest Show on Earth,Comedia,9.7
+59,1969,Comedia,8.7
+70,Pirates Who Dont Do Anything,Comedia,8.5
+66,My Sassy Girl,Comedia,8.1
+45,Presidents Man,Comedia,7.8
+91,Take Me Out to the Ball Game,Comedia,7.6
+50,Jill the Ripper,Comedia,7.6
+80,Surfs Up,Comedia,5.8
+72,5 Deadly Venoms,Comedia,5.8
+24,Tic Code,Comedia,5.6
+88,200 MPH,Comedia,4.7
+89,Phantom,Comedia,4.6
+5,Disneyland Dream,Comedia,4.2
+36,Questioning Darwin,Comedia,3.7
+30,Sometimes They Come Back,Comedia,3.7
+73,Deep Rising,Comedia,2.8
+21,Sgt Kabukiman,Comedia,2.7
+63,Invaders from Mars,Comedia,2.2
+85,Quicksilver Highway,Comedia,1.9
+82,Rogue Cop,Comedia,1.7
+25,Kick Ass,Comedia,1.0
+43,At the Earths Core,Accion,9.1
+20,Boy Meets Boy,Accion,9.0
+60,Flying Down to Rio,Accion,8.9
+41,Brute The Bruto,Accion,8.9
+98,Best Defense,Accion,8.5
+39,Bone Collector,Accion,7.6
+100,You Kill Me,Accion,7.6
+29,Dirty Work,Accion,7.1
+49,Horrible Bosses 2,Accion,6.2
+77,Doubt,Accion,6.0
+4,Day After Trinity,Accion,5.6
+35,With Love,Accion,5.3
+9,The Man From The Alamo,Accion,5.1
+99,Jimmy Rosenberg,Accion,5.0
+27,Telefon,Accion,4.7
+93,Ordinary Decent Criminal,Accion,4.6
+33,The Snow White Murder Case,Accion,4.6
+65,10 000 timmar,Accion,3.9
+57,Dragon Ball Z,Accion,3.8
+15,Dragonquest,Accion,3.4
+90,Cheech and Chong,Accion,3.2
+95,Cloverfield,Accion,3.1
+97,Vie en Rose,Accion,2.8
+31,Floundering,Accion,2.7
+78,Dark Horse,Accion,2.2
+53,47 Ronin,Accion,2.1
+38,Battlestar Galactica,Accion,1.9
+51,Robot Carnival,Accion,1.7
+69,My Favorite Martian,Accion,1.4
+55,Divorcee,Accion,1.2
